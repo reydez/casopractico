@@ -1,2 +1,0 @@
-# casopractico
-caso practico colaboradores
